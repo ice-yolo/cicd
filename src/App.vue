@@ -6,7 +6,7 @@
         <a href="https://vuejs.org/" target="_blank">
             <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
         </a>
-        <h1>CICD/成功自动化部署</h1>
+        <h1>成功自动化部署😋🫵🫵</h1>
         <chartPie :series-data="dataList" :extra-option="extraOption" />
     </div>
     <!-- <HelloWorld msg="Vite + Vue" /> -->
